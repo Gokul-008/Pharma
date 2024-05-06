@@ -125,7 +125,7 @@ bootstrap.html
 </html>
 ```
 products.html
-```
+
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -208,9 +208,9 @@ products.html
 </body>
 </html>
 ```
-```
+
 event.html
-```
+
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -266,7 +266,9 @@ event.html
           <img src="drug.jpg" class="card-img-top" alt="News Image">
           <div class="card-body">
             <h5 class="card-title">Quadria Capital picks up stake in NephroPlus for $102 mln</h5>
-            <p class="card-text">Quadria Capital invests $102 million in NephroPlus, India's largest dialysis chain, acquiring a minority stake. The move supports NephroPlus in meeting the rising demand for dialysis services in India and Asia. Quadria anticipates dialysis demand growth over the next five years in its targeted markets..</p>
+            <p class="card-text">Quadria Capital invests $102 million in NephroPlus, India's largest dialysis chain, acquiring a 
+              minority stake. The move supports NephroPlus in meeting the rising demand for dialysis services in India and Asia. Quadria 
+              anticipates dialysis demand growth over the next five years in its targeted markets..</p>
             <a href="#" class="btn btn-primary btn-sm">Read More</a>
           </div>
         </div>
@@ -276,7 +278,9 @@ event.html
           <img src="pill.jpg" class="card-img-top" alt="News Image">
           <div class="card-body">
             <h5 class="card-title">The penicillin war: India's journey from self-sufficiency to dependence on China</h5>
-            <p class="card-text">.</p>After India lost its dominance in making penicillin, a drought of three decades is coming to an end. The drug – which forms the base for a raft of extremely potent antibiotics – is part of the govt’s aggressive push for self-sufficiency in critical areas. Will the plan to claw back to the glorious past work?
+            <p class="card-text">.</p>After India lost its dominance in making penicillin, a drought of three decades is coming to an 
+               end. The drug – which forms the base for a raft of extremely potent antibiotics – is part of the govt’s aggressive push 
+                for self-sufficiency in critical areas. Will the plan to claw back to the glorious past work?
             <a href="#" class="btn btn-primary btn-sm">Read More</a>
           </div>
         </div>
@@ -292,11 +296,14 @@ event.html
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
 </body>
 </html>
-
-
 ```
+
+
+
+
+
+
 about us.html
-```
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -330,13 +337,13 @@ about us.html
             </ul>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Products</a>
+            <a class="nav-link" href="products.html">Products</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">News & Events</a>
+            <a class="nav-link" href="event.html">News & Events</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Contact</a>
+            <a class="nav-link" href="about us.html">Contact</a>
           </li>
         </ul>
       </div>
@@ -385,6 +392,8 @@ about us.html
 </body>
 </html>
 ```
+
+
 ## OUTPUT:
 ![alt text](<Screenshot (147).png>)
 ![alt text](<Screenshot (148).png>)
